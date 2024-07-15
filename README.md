@@ -30,6 +30,10 @@ Interviews are your chance to shine. Get ready by understanding different interv
 ### Coding Challenges
 Crack the coding challenge with our tips on problem-solving strategies. Learn how to approach problems methodically, plan your solutions, and write optimized code.
 
+### Assets and Resources
+- [Portfolio Checklist for Software Engineers](https://vets-who-code.notion.site/Portfolio-Checklist-for-Software-Engineers-1b3b3b3b3b3b4c5db8273993dfd748c3)
+- [Resume Template](resume-template.pdf)
+- [Brand Database](https://vets-who-code.notion.site/Generic-Brand-Database-d69b3e59f9274427adedf00aa9f16c21?pvs=4)
 ---
 
 Don't miss out on this comprehensive course designed to boost your confidence and help you succeed. Click the link to watch the video and start your journey towards a successful software engineering career!
