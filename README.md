@@ -13,7 +13,7 @@ Discover how to transform your job search strategy, polish your resume, and shin
 ## Highlights from the Course
 
 ### Resume Building
-Your resume is your first impression. Learn how to craft a resume that stands out by highlighting your technical skills, achievements, and key projects. Show potential employers why you're the perfect fit.
+Your resume is your first impression. Learn how to craft a resume that stands out by highlighting your technical skills, achievements, and key projects. Show potential employers why you're the perfect fit. I also include a [resume template](resume-template.pdf) to help you get started.
 
 ### Job Search Strategies
 Job hunting can be daunting, but with the right strategies, you can find the perfect role. We’ll show you how to target applications to jobs that align with your skills and goals, and how to network like a pro.
