@@ -1,12 +1,14 @@
-# Preparing for the Software Engineering Job v3
+# Getting a Software Engineering Job, v3
 
 <p align="center">
   <img src="https://res.cloudinary.com/vetswhocode/image/upload/v1721005521/Final_Preparing_For_the_Software_Engineering_Job_v3_-_Slide_Deck_sqof1p.gif" alt="Preparing for the Software Engineering Job">
 </p>
 
-Welcome to the "Preparing for the Software Engineering Job" course. Ready to take your software engineering career to the next level? This course, packed with essential tips from our slide deck, is here to help you ace your job search and career development.
+Welcome to the **Getting a Software Engineering Job, v3** course. Ready to take your software engineering career to the next level? This course, packed with essential tips from our slide deck, is here to help you ace your job search and career development.
 
-## Why Watch This Video?
+You can watch the [Getting a Software Engineering Job, v3](https://frontendmasters.com/courses/getting-a-job-v3/) course on [Frontend Masters](https://frontendmasters.com). 
+
+## Why Watch This Course?
 
 Discover how to transform your job search strategy, polish your resume, and shine in interviews with practical, actionable advice tailored for aspiring software engineers. This isn't just another course—it's your roadmap to success!
 
@@ -26,9 +28,6 @@ Your portfolio is your chance to shine. Learn how to create a portfolio that sho
 
 ### Interview Preparation
 Interviews are your chance to shine. Get ready by understanding different interview formats, practicing coding problems, and preparing to discuss your experiences with teamwork and project management.
-
-### Coding Challenges
-Crack the coding challenge with our tips on problem-solving strategies. Learn how to approach problems methodically, plan your solutions, and write optimized code.
 
 ### Assets and Resources
 - [Portfolio Checklist for Software Engineers](https://vets-who-code.notion.site/Portfolio-Checklist-for-Software-Engineers-1b3b3b3b3b3b4c5db8273993dfd748c3)
