@@ -21,6 +21,9 @@ Job hunting can be daunting, but with the right strategies, you can find the per
 ### LinkedIn and GitHub
 In today's digital age, a strong online presence is crucial. Discover how to optimize your LinkedIn profile and showcase your GitHub projects to impress recruiters and demonstrate your expertise.
 
+### Portfolio Building
+Your portfolio is your chance to shine. Learn how to create a portfolio that showcases your skills, experience, and projects to potential employers. We'll discuss the essential components of a software engineer's portfolio and how to optimize it for maximum impact. Check out our [Portfolio Checklist for Software Engineers](https://vets-who-code.notion.site/Portfolio-Checklist-for-Software-Engineers-1b3b3b3b3b3b4c5db8273993dfd748c3) for more details.
+
 ### Interview Preparation
 Interviews are your chance to shine. Get ready by understanding different interview formats, practicing coding problems, and preparing to discuss your experiences with teamwork and project management.
 
