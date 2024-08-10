@@ -30,6 +30,7 @@ Your portfolio is your chance to shine. Learn how to create a portfolio that sho
 Interviews are your chance to shine. Get ready by understanding different interview formats, practicing coding problems, and preparing to discuss your experiences with teamwork and project management.
 
 ### Assets and Resources
+- [Course Slides](getting-a-job-v3-slides.pdf)
 - [Portfolio Tips](portfolio-tips.md) 
 - [Resume Template](resume-template.pdf)
 - [Brand Database](https://vets-who-code.notion.site/Generic-Brand-Database-d69b3e59f9274427adedf00aa9f16c21?pvs=4)
